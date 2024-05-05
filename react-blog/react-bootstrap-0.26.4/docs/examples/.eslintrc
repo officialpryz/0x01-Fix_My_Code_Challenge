@@ -4,13 +4,13 @@
     "react/react-in-jsx-scope": 0
   },
   "globals": {
-    "mountNode",
-    "React",
-    "classNames",
-    "Accordion",
-    "Alert",
+    "mountNode"
+    "React"
+    "classNames"
+    "Accordion"
+    "Alert"
     "Badge",
-    "Breadcrumb",
+    "Breadcrumb"
     "BreadcrumbItem",
     "Button",
     "ButtonGroup",
@@ -59,6 +59,6 @@
     "Well",
     "Thumbnail",
     "Collapse",
-    "Fade"
-  }
+    "Fade":
+    }
 }
